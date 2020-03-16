@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-c-code-excution",
+  "version": "1.0.0",
+  "description": "This program is a demo for how to execute c program from node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alokraj68/NodeJs-C-Code-Excution.git"
+  },
+  "author": "alokraj68",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alokraj68/NodeJs-C-Code-Excution/issues"
+  },
+  "homepage": "https://github.com/alokraj68/NodeJs-C-Code-Excution#readme"
+}
